@@ -63,6 +63,16 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=iamsahilydv&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsahilydv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Graphs -->
+[![](https://visitcount.itsvg.in/api?id=iamsahilydv&icon=2&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsahilydv&theme=2077" width="100%" />
+<hr/>
+<a href="https://github.com/iamsahilydv/github-readme-activity-graph"><img alt="iamsahilydv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamsahilydv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=iamsahilydv&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
@@ -73,10 +83,3 @@ The Full-Stack Developer designs and maintains websites and systems to serve a c
 <!-- <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=iamsahilydv&icon=2&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsahilydv&theme=2077" width="100%" />
-<hr/>
-<a href="https://github.com/iamsahilydv/github-readme-activity-graph"><img alt="iamsahilydv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamsahilydv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
-
