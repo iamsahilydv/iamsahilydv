@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Prince;i am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! you are on Sahil's Profile; Sahil is a Full-Stack%20Web%20Developer 👨🏻‍💻; Curious%20to%20Learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <hr/>
@@ -10,11 +10,11 @@
 </div>
 
 
-- 👋 Hi, I’m @iamsahilydv
+<!-- - 👋 Hi, I’m @iamsahilydv
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... -->
 
 <!---
 iamsahilydv/iamsahilydv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
