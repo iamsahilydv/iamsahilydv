@@ -1,3 +1,15 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Prince;i am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22&pause=1000"></a>
+</p>
+
+<hr/>
+
+<div align="center" dir="auto">
+  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="80%" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
+</div>
+
+
 - 👋 Hi, I’m @iamsahilydv
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
