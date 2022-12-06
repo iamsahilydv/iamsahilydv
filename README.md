@@ -32,6 +32,26 @@ iamsahilydv/iamsahilydv is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+<h1 align="center" dir="auto">Hey there Sahil here...😄 </h1>
+
+The Full-Stack Developer designs and maintains websites and systems to serve a company's needs. develop these platforms to function independently Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX) AND writing code which is optimized.
+
+
+ Learnt Full-stack web development from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
+* 1200+ Hours Practical Coding
+* 100+ Hours Soft Skill Development
+* 80+ Mini Projects
+* 300 Hours Data Structures & Algorithms
+* 100+ Hours Math & Logic
+* 10+ Projects & Hackathon
+
+- 🌱 I’m currently learning **Full-Stack web Development**
+
+- 💬 Ask me about **HTML,CSS,JS,REACT,REACT-REDUX**
+
+- 📫Reach me @ iamsahilydv@gmail.com
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamsahilydv) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsahilydv) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamsahilydv) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamsahilydv) 
