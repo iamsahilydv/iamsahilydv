@@ -6,7 +6,7 @@
 <hr/>
 
 <div align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media3.giphy.com/media/Qc0BxWM9TxljvJug2x/200w.gif?cid=6c09b952zauslsidl5fhd1cs2vqltajyph8d108lr9npbfy8&rid=200w.gif&ct=g" width="80%" height="50% data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
+  <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media3.giphy.com/media/Qc0BxWM9TxljvJug2x/200w.gif?cid=6c09b952zauslsidl5fhd1cs2vqltajyph8d108lr9npbfy8&rid=200w.gif&ct=g" width="40%" height="50% data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
 </div>
 
 <!--  <p align="center">
