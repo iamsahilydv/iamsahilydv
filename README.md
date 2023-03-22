@@ -39,7 +39,7 @@ Aspiring Technical Support Engineer with the passion to research, diagnose, trou
 
  Learnt Technical Support Engineering from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
 * 100+ Hours Soft Skill Development
- <---   
+ <!---   
 * 1200+ Hours Practical Coding
 * 80+ Mini Projects
 * 300 Hours Data Structures & Algorithms
