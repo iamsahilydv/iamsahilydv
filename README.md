@@ -71,7 +71,9 @@ Aspiring Technical Support Engineer with the passion to research, diagnose, trou
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamsahilydv&theme=2077" width="100%" />
 <hr/>
+    <!--
 <a href="https://github.com/iamsahilydv/github-readme-activity-graph"><img alt="iamsahilydv Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=iamsahilydv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area_color=39d5e3&area=true" /></a>
+    -->
 
 
 
