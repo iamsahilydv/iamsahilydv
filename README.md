@@ -11,7 +11,7 @@
 --->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Sahil;I am a Full-stack%20Web%20Developer 👨🏻‍💻; <CodeWithCoffee/>!&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22&pause=1000"></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Sahil;I am a Full-Stack%20Web%20Developer 👨🏻‍💻; <CodeWithCoffee/>!&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22&pause=1000"></a>
 </p>
 
 <hr/>
