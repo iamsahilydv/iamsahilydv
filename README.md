@@ -34,12 +34,12 @@ You can click the Preview link to take a look at your changes.
 
 <h1 align="center" dir="auto">Hey there Sahil here...😄 </h1>
 
-Aspiring Technical Support Engineer with the passion to research, diagnose, troubleshoot, and resolve customer issues in an accurate and timely manner. Knowledge on working with different systems, software, and hardware and following standard procedures to escalate unresolved issues to appropriate internal departments. Flexible and adaptable in a fast-paced environment. Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript,REACT , REACT-REDUX, TypeScript, Tailwind, ChakraUI) AND writing code which is optimized.
+Enthusiastic web developer with a strong foundation in front-end and back-end technologies. Passionate about crafting exceptional digital experiences through clean, efficient, and scalable code. Experienced in using a diverse tech stack, including HTML, CSS, JavaScript, and various frameworks. Adept at translating design concepts into responsive and dynamic web applications. Committed to staying updated on emerging trends and technologies in the ever-evolving web development landscape. Excited to collaborate on innovative projects and contribute to the world of web development.
 
 
- Learnt Technical Support Engineering from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
+ Learn Full Stack Web Development from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
  <!---   
-* 100+ Hours Soft Skill Development
+* 100+ Hours of Soft Skill Development
  --->
 * 1200+ Hours Practical Coding
 * 80+ Mini Projects
