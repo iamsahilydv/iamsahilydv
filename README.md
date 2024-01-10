@@ -1,4 +1,4 @@
-<p align="center">
+<!---<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! you are on Sahil's Profile;A Technical%20Support%20Engineer 👨🏻‍💻; Curious%20to%20Learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22&pause=1000"></a>
 </p>
@@ -8,8 +8,8 @@
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://media3.giphy.com/media/Qc0BxWM9TxljvJug2x/200w.gif?cid=6c09b952zauslsidl5fhd1cs2vqltajyph8d108lr9npbfy8&rid=200w.gif&ct=g" width="80%" height="400px data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
 </div>
-
-<!--  <p align="center">
+--->
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Hi! I am Prince;i am a Full-stack%20web%20developer 👨🏻‍💻; Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=FFA500&vCenter=true&size=22&pause=1000"></a>
 </p>
@@ -18,7 +18,7 @@
 
 <div align="center" dir="auto">
   <a target="_blank" rel="noopener noreferrer nofollow" ><img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="80%" data-animated-image="" data-canonical-src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" style="max-width: 100%;"></a>
-</div> -->
+</div> 
 
 
 <!-- - 👋 Hi, I’m @iamsahilydv
@@ -38,18 +38,18 @@ Aspiring Technical Support Engineer with the passion to research, diagnose, trou
 
 
  Learnt Technical Support Engineering from Masai School(India's first Skill building School "Driven by Outcomes, Fuelled by Ambitions.")
-* 100+ Hours Soft Skill Development
  <!---   
+* 100+ Hours Soft Skill Development
+ --->
 * 1200+ Hours Practical Coding
 * 80+ Mini Projects
 * 300 Hours Data Structures & Algorithms
 * 100+ Hours Math & Logic
-* 10+ Projects & Hackathon
-    --->
+    
 
-- 🌱 I’m currently learning **Technical Support Engineer**
+- 🌱 I’m currently learning **Web Developer**
 
-- 💬 Ask me about **HTML,CSS,JS,REACT,REACT-REDUX,Linux,SQL,TS,OS**
+- 💬 Ask me about **HTML, CSS, JS, REACT, REACT-REDUX, Linux, SQL, TS, OS**
 
 - 📫Reach me @ iamsahilydv@gmail.com
 
